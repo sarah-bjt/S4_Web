@@ -1,0 +1,94 @@
+{
+    "zodiac_signs": [
+      {
+        "name": "Bélier",
+        "image":"/signes_astro/bélier.jpeg",
+        "start_date": "21 mars",
+        "end_date": "19 avril",
+        "element": "Feu",
+        "traits": ["Énergique", "Courageux", "Impulsif"]
+      },
+      {
+        "name": "Taureau",
+        "image":"/signes_astro/taureau.jpeg",
+        "start_date": "20 avril",
+        "end_date": "20 mai",
+        "element": "Terre",
+        "traits": ["Patient", "Fiable", "Têtu"]
+      },
+      {
+        "name": "Gémeaux",
+        "image":"/signes_astro/gémeaux.jpeg",
+        "start_date": "21 mai",
+        "end_date": "20 juin",
+        "element": "Air",
+        "traits": ["Curieux", "Adaptable", "Indécis"]
+      },
+      {
+        "name": "Cancer",
+        "start_date": "21 juin",
+        "end_date": "22 juillet",
+        "element": "Eau",
+        "traits": ["Émotionnel", "Protecteur", "Susceptible"]
+      },
+      {
+        "name": "Lion",
+        "image":"/signes_astro/lion.jpeg",
+        "start_date": "23 juillet",
+        "end_date": "22 août",
+        "element": "Feu",
+        "traits": ["Charismatique", "Ambitieux", "Autoritaire"]
+      },
+      {
+        "name": "Vierge",
+        "start_date": "23 août",
+        "end_date": "22 septembre",
+        "element": "Terre",
+        "traits": ["Analytique", "Discipliné", "Critique"]
+      },
+      {
+        "name": "Balance",
+        "start_date": "23 septembre",
+        "end_date": "22 octobre",
+        "element": "Air",
+        "traits": ["Diplomate", "Indécis", "Sociable"]
+      },
+      {
+        "name": "Scorpion",
+        "start_date": "23 octobre",
+        "end_date": "21 novembre",
+        "element": "Eau",
+        "traits": ["Passionné", "Mystérieux", "Intense"]
+      },
+      {
+        "name": "Sagittaire",
+        "start_date": "22 novembre",
+        "end_date": "21 décembre",
+        "element": "Feu",
+        "traits": ["Optimiste", "Aventurier", "Imprudent"]
+      },
+      {
+        "name": "Capricorne",
+        "start_date": "22 décembre",
+        "end_date": "19 janvier",
+        "element": "Terre",
+        "traits": ["Pragmatique", "Ambitieux", "Sérieux"]
+      },
+      {
+        "name": "Verseau",
+        "image":"/signes_astro/verseau.jpeg",
+        "start_date": "20 janvier",
+        "end_date": "18 février",
+        "element": "Air",
+        "traits": ["Indépendant", "Visionnaire", "Détaché"]
+      },
+      {
+        "name": "Poissons",
+        "start_date": "19 février",
+        "end_date": "20 mars",
+        "element": "Eau",
+        "traits": ["Créatif", "Empathique", "Rêveur"]
+      }
+    ]
+}
+  
